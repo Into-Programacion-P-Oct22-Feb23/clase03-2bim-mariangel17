@@ -11,7 +11,7 @@ package paquete04;
  */
 public class Ejemplo2 {
 
-    /**
+    /** //Mariangel Rojas
      * @param args the command line arguments
      */
     public static void main(String[] args) {
